@@ -36,7 +36,7 @@ require "utils.pl";
 
 if (! @ARGV) {
    print <<END
-Usage: f90doc [options] [--] path/file.f90 ...
+Usage: f03doc [options] [--] path/file.f90 ...
 Description: Generates HTML files corresponding to each module in the listed
    files, and stores them in the current directory.
 Options: -cp: comments should be considered to be preformatted text
