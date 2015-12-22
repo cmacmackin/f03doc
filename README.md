@@ -1,3 +1,6 @@
+_**Notice:** I no longer maintain this project, having developed my own documentation software
+from scratch, called [FORD](https://github.com/cmacmackin/ford)._
+
 This is f03doc version 0.1.0, a documentation tool for Fortran 2003.  It is an
 extension of f90doc 0.4.0, allowing it to handle the various object oriented 
 and C interoperability features in the Fortran 2003 standard.  For
